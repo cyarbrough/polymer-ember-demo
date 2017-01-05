@@ -8,6 +8,7 @@
     "webcomponentsjs": "^0.7.23",
     "paper-button": "PolymerElements/paper-button#^1.0.14",
     "iron-icons": "PolymerElements/iron-icons#^1.2.0",
-    "iron-icon": "PolymerElements/iron-icon#^1.0.12"
+    "iron-icon": "PolymerElements/iron-icon#^1.0.12",
+    "materialize": "0.97.6"
   }
 }
